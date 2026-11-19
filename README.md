@@ -194,8 +194,8 @@ These metrics provide a comparative overview of store performance and profitabil
 
 The complete project conclusion is available below:
 
-- [English Version](E-Commerce-Sql-Project-Conclusion)
-- [Versão em Português](E-Commerce-Sql-Project-Conclusao)
+- [English Version](E-Commerce-Sql-Project-Conclusion.md)
+- [Versão em Português](E-Commerce-Sql-Project-Conclusao.md)
 
 ---
 
