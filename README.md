@@ -179,16 +179,18 @@ These metrics provide a comparative overview of store performance and profitabil
 ## Power BI Dashboard Preview
 
 ### Sales Performance Overview
-![Sales Performance Overview](sales-performance-overview.png/sales-performance-overview.png)
+[![Sales Performance Overview](sales-performance-overview.png)](sales-performance-overview.png)
 
 ### Product Performance Analysis
-![Product Performance Analysis](product-performance-analysis.png/product-performance-analysis.png)
+[![Product Performance Analysis](product-performance-analysis.png)](product-performance-analysis.png)
+
+[![Product Performance](product-performance.png)](product-performance.png)
 
 ### Customer Insights & Analysis
-![Customer Insights & Analysis](customer-insights-analysis.png/customer-insights-analysis.png)
+[![Customer Insights & Analysis](customer-insights-analysis.png])](customer-insights-analysis.png)
 
 ### Store Performance Analysis
-![Store Performance Analysis](store-performance-analysis.png/store-performance-analysis.png)
+[![Store Performance Analysis](store-performance-analysis.png])](store-performance-analysis.png)
 
 ## Project Conclusion
 
