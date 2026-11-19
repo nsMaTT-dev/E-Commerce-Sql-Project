@@ -185,10 +185,10 @@ These metrics provide a comparative overview of store performance and profitabil
 [![Product Performance Analysis](product-performance-analysis.png)](product-performance-analysis.png)
 
 ### Customer Insights & Analysis
-[![Customer Insights & Analysis](customer-insights-analysis.png])](customer-insights-analysis.png)
+[![Customer Insights & Analysis](customer-insights-analysis.png)](customer-insights-analysis.png)
 
 ### Store Performance Analysis
-[![Store Performance Analysis](store-performance-analysis.png])](store-performance-analysis.png)
+[![Store Performance Analysis](store-performance-analysis.png)](store-performance-analysis.png)
 
 ## Project Conclusion
 
